@@ -13,3 +13,5 @@ support now
 >   `hash diff file1 file2`
 >   `hash __hash_alg files`
 
+todo
+- [] more command parameters like -b -h -o
