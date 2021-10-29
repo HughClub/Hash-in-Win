@@ -8,3 +8,8 @@ support now
 -   sha384
 -   sha512
 
+>   usage:`./hash COMMAND Params`
+>
+>   `hash diff file1 file2`
+>   `hash __hash_alg files`
+
